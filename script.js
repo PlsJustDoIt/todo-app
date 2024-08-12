@@ -1,6 +1,4 @@
 
-// Path: TODO\todo.js
-
 let x = 10;
 
 function handleForm() {
